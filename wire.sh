@@ -1,0 +1,1 @@
+cd wire && wire && cd ./

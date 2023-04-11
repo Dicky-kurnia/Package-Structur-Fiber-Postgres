@@ -1,0 +1,6 @@
+main
+main.exe
+dist/pop-image/*
+.env
+**/.DS_Store
+.idea
